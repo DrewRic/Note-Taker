@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrewRic/Note-Taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrewRic/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/DrewRic/Note-Taker#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
